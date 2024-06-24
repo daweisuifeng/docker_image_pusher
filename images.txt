@@ -16,3 +16,4 @@ nacos/nacos-server:v2.2.0
 redis:7
 mysql:5.7
 keking/kkfileview:latest
+openjdk:8
