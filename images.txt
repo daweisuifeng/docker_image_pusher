@@ -17,3 +17,4 @@ redis:7
 mysql:5.7
 keking/kkfileview:latest
 openjdk:8
+portainer/portainer-ce
