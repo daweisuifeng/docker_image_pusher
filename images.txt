@@ -7,3 +7,11 @@ xhofe/alist:latest
 xuxueli/xxl-job-admin:2.4.0
 tjqq/powerjob-server:latest
 jc3wish/bifrost:latest
+rabbitmq:3.7.15-management
+elasticsearch:7.17.3
+logstash:7.17.3
+kibana:7.17.3
+mongo:4
+nacos/nacos-server:v2.2.0
+redis:7
+mysql:5.7
