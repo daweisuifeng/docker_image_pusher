@@ -23,3 +23,4 @@ tomcat:8
 grafana/loki:2.6.1
 grafana/promtail:2.1.0
 grafana/grafana:9.5.18
+registry.docker.com/grafana/loki-docker-driver:main
