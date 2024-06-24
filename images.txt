@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 xuxueli/xxl-job-admin:2.4.0
+tjqq/powerjob-server:latest
