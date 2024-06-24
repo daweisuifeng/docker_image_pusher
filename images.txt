@@ -19,3 +19,4 @@ keking/kkfileview:latest
 openjdk:8
 portainer/portainer-ce
 docker.elastic.co/beats/filebeat:7.17.3
+tomcat:8
