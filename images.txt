@@ -18,3 +18,4 @@ mysql:5.7
 keking/kkfileview:latest
 openjdk:8
 portainer/portainer-ce
+filebeat:7.17.3
