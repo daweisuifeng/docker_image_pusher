@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xuxueli/xxl-job-admin:2.4.0
 tjqq/powerjob-server:latest
+jc3wish/bifrost:latest
