@@ -1,1 +1,1 @@
-apereo/cas:v5.3.9
+nextcloud:latest
