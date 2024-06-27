@@ -1,1 +1,2 @@
-sonarqube:6.7.1
+sonarqube:9.2.1-community
+postgres:12.3
