@@ -1,2 +1,1 @@
-sonarqube:9.2.1-community
-postgres:12.3
+ffdfgdfg/nps:v0.26.10
