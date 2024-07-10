@@ -1,2 +1,2 @@
-drone/drone:1
-drone-runner-docker:1
+drone/drone:2.22.0
+drone/drone-runner-docker:latest
