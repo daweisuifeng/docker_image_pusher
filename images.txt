@@ -1,2 +1,3 @@
-drone/drone:2.22.0
-drone/drone-runner-docker:latest
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:2.13-2.8.1
+xinze0803/hbase
