@@ -1,3 +1,1 @@
-wurstmeister/zookeeper:latest
-wurstmeister/kafka:2.13-2.8.1
-xinze0803/hbase
+flink:scala_2.12-java8
