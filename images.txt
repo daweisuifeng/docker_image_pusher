@@ -1,1 +1,1 @@
-anjia0532/google-containers.ingress-nginx.controller:v1.1.1
+anjia0532/google-containers.ingress-nginx.kube-webhook-certgen:v1.1.1
