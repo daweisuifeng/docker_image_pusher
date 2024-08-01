@@ -1,8 +1,1 @@
-registry.k8s.io/kube-apiserver-arm64:v1.22.10
-registry.k8s.io/kube-controller-manager-arm64:v1.22.10
-registry.k8s.io/kube-proxy-arm64:v1.22.10
-registry.k8s.io/kube-scheduler-arm64:v1.22.10
-registry.k8s.io/conformance-arm64:v1.22.10
-registry.k8s.io/pause:3.6
-registry.k8s.io/etcd:3.5.1-0
-registry.k8s.io/coredns:v1.8.4
+coredns/coredns:v1.8.4
