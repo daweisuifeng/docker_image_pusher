@@ -1,1 +1,1 @@
-rabbitmq:3.8.16-management
+mongo:4.4.13
