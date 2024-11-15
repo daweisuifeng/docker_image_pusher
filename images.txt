@@ -1,2 +1,1 @@
-sonarqube:latest
-sonarqube:latest
+abbitmq:3.8.16-management
