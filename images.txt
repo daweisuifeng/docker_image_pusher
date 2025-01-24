@@ -1,1 +1,1 @@
-judge0/judge0:1.13.1
+jitsi/web:web-1.0.8362-1
