@@ -1,1 +1,1 @@
-jitsi/web:web-1.0.8362-1
+zhayujie/chatgpt-on-wechat:latest
