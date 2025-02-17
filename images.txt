@@ -2,6 +2,6 @@ registry.k8s.io/kube-apiserver-arm64:v1.24.10
 registry.k8s.io/kube-controller-manager-arm64:v1.24.10
 registry.k8s.io/kube-proxy-arm64:v1.24.10
 registry.k8s.io/kube-scheduler-arm64:v1.24.10
-registry.k8s.io/etcd-arm64:3.5.4-0
+registry.k8s.io/etcd-arm64:3.5.4
 registry.k8s.io/coredns-arm64:1.8.6
 registry.k8s.io/pause-arm64:3.7
