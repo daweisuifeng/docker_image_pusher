@@ -1,1 +1,1 @@
-docker pull kubesphere/fluent-bit:v2.0.6 --platform arm64
+kubesphere/fluent-bit:v2.0.6 --platform arm64
