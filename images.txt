@@ -1,1 +1,1 @@
-kubesphere/fluent-bit-arm64:v2.0.6
+kubesphere/fluent-bit:v2.0.6-kylin-v10-arm64
