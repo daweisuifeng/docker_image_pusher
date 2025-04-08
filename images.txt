@@ -1,1 +1,1 @@
---platform=linux/arm64 tonistiigi/binfmt
+busybox
