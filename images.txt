@@ -1,1 +1,1 @@
-gvenzl/oracle-xe:11
+multiarch/qemu-user-static
