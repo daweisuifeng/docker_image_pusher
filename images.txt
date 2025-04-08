@@ -1,1 +1,1 @@
-kubesphere/fluent-bit:v2.0.6-kylin-v10-arm64
+oracleinanutshell/oracle-xe-11g --platform=linux/amd64
