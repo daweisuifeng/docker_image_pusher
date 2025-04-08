@@ -1,1 +1,1 @@
-oracleinanutshell/oracle-xe-11g --platform=linux/amd64
+gvenzl/oracle-xe:11 --platform=linux/amd64
