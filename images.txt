@@ -1,1 +1,1 @@
-lucnt/oracle-11g:arm64
+--platform=linux/arm64 multiarch/qemu-user-static
