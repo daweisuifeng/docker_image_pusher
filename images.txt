@@ -1,1 +1,1 @@
-busybox
+abhyuni/oracle-11g-r2:arm64
