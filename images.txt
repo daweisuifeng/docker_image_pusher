@@ -1,1 +1,2 @@
---platform=linux/arm64 multiarch/qemu-user-static
+multiarch/qemu-user-static
+wnameless/oracle-xe-11g
