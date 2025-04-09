@@ -1,1 +1,1 @@
-abhyuni/oracle-11g-r2:arm64
+lucnt/oracle-11g:arm64
