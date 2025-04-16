@@ -1,1 +1,1 @@
-rancher/fleet:v0.5.3
+rancher/gitjob:v0.1.32
