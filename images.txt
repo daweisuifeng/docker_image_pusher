@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.5.3
+ghcr.io/flannel-io/flannel:v0.26.7
