@@ -1,1 +1,1 @@
-rancher/rancher:v2.6-head
+rancher/shell:v0.1.19
