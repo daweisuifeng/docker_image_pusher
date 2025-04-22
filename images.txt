@@ -1,1 +1,1 @@
---platform=arm64 nginx:1.26.3
+--platform=arm64 busybox:stable
