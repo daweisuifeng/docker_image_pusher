@@ -1,12 +1,1 @@
---platform=arm64 registry.aliyuncs.com/google_containers/kube-apiserver:v1.23.17
---platform=arm64 registry.aliyuncs.com/google_containers/kube-controller-manager:v1.23.17
---platform=arm64  registry.aliyuncs.com/google_containers/kube-scheduler:v1.23.17
---platform=arm64 registry.aliyuncs.com/google_containers/kube-proxy:v1.23.17
---platform=arm64 registry.aliyuncs.com/google_containers/etcd:3.5.6-0
---platform=arm64 registry.aliyuncs.com/google_containers/coredns:v1.8.6
---platform=arm64 registry.aliyuncs.com/google_containers/pause:3.6
-
---platform=arm64 docker.io/calico/node:v3.25.0
---platform=arm64 docker.io/calico/cni:v3.25.0
---platform=arm64 docker.io/calico/kube-controllers:v3.25.0
---platform=arm64 docker.io/calico/pod2daemon-flexvol:v3.25.0
+--platform=arm64 nginx:1.26.3
