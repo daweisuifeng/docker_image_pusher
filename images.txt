@@ -1,1 +1,1 @@
---platform=arm64 busybox:stable
+--platform=arm64 node:14
