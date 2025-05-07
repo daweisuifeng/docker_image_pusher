@@ -1,1 +1,1 @@
---platform=arm64 node:14
+--platform=arm64 rollernaut/oracle19c
