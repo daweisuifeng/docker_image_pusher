@@ -1,1 +1,1 @@
---platform=arm64 rollernaut/oracle19c
+--platform=arm64 tomcat:8
