@@ -1,1 +1,1 @@
---platform=arm64 tomcat:8
+tomcat:8.5.98
