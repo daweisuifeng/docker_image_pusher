@@ -1,1 +1,1 @@
-tomcat:9.0-jdk8
+tomcat:8-jdk8-temurin
