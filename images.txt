@@ -1,1 +1,1 @@
---platform=linux/arm64 eclipse-temurin:8-jre-alpine
+--platform=linux/arm64 eclipse-temurin:22.0.1_8-jre-alpine
