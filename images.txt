@@ -1,1 +1,1 @@
---platform=linux/arm64 eclipse-temurin:22.0.1_8-jre
+--platform=linux/arm64 eipwork/kuboard:v3
