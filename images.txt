@@ -1,1 +1,1 @@
---platform=linux/arm64 eipwork/kuboard:v3
+--platform=linux/arm64 eipwork/etcd-host:3.4.16-2
