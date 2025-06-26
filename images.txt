@@ -1,1 +1,1 @@
---platform=linux/arm64 rollernaut/oracle19c:latest
+--platform=linux/arm64 gvenzl/oracle-xe:21-slim
