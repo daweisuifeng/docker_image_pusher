@@ -2,7 +2,9 @@
 --platform=linux/arm64 prom/alertmanager:v0.25.0
 --platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.67.1
 --platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.67.1
---platform=linux/arm64 quay.io/coreos/kube-state-metrics:v2.9.2
+--platform=linux/arm64 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.9.2
 --platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
 --platform=linux/arm64 quay.io/brancz/kube-rbac-proxy:v0.14.1
+
+
 
