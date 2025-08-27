@@ -1,16 +1,8 @@
---platform=linux/arm64 quay.azk8s.cn/prometheus-operator/prometheus-operator:v0.73.0
---platform=linux/arm64 quay.azk8s.cn/prometheus-operator/certgen:v0.7.0
---platform=linux/arm64 quay.azk8s.cn/prometheus/prometheus:2.53.0
---platform=linux/arm64 quay.azk8s.cn/prometheus/alertmanager:0.25.0
-
---platform=linux/arm64 quay.azk8s.cn/coreos/kube-state-metrics:v2.7.0
---platform=linux/arm64 quay.azk8s.cn/prometheus/node-exporter:v1.7.2
---platform=linux/arm64 quay.azk8s.cn/coreos/kube-rbac-proxy:v0.13.0
---platform=linux/arm64 quay.azk8s.cn/prometheus/prometheus-config-reloader:v0.73.0
-
---platform=linux/arm64 quay.azk8s.cn/thanos/thanos:v0.35.0
---platform=linux/arm64 quay.azk8s.cn/oauth2-proxy/oauth2-proxy:v7.5.1
-
-
-
-
+--platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.61.0
+--platform=linux/arm64 quay.io/prometheus-operator/certgen:v0.7.0
+--platform=linux/arm64 quay.io/prometheus-operator/kube-rbac-proxy:v0.13.0
+--platform=linux/arm64 prom/prometheus:v2.45.0
+--platform=linux/arm64 prom/alertmanager:v0.25.0
+--platform=linux/arm64 quay.io/thanos/thanos:v0.35.0
+--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
+--platform=linux/arm64 quay.io/coreos/kube-state-metrics:v2.8.0
