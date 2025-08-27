@@ -1,8 +1,8 @@
 --platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.61.0
---platform=linux/arm64 quay.mirrors.ustc.edu.cn/prometheus-operator/certgen:v0.7.0
 --platform=linux/arm64 quay.io/prometheus-operator/kube-rbac-proxy:v0.13.0
 --platform=linux/arm64 prom/prometheus:v2.45.0
 --platform=linux/arm64 prom/alertmanager:v0.25.0
 --platform=linux/arm64 quay.io/thanos/thanos:v0.35.0
 --platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
 --platform=linux/arm64 quay.io/coreos/kube-state-metrics:v2.8.0
+--platform=linux/arm64 quay.io/prometheus-operator/certgen:v0.7.0
