@@ -1,9 +1,4 @@
---platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.61.0
---platform=linux/arm64 quay.io/brancz/kube-rbac-proxy:v0.13.0
---platform=linux/arm64 prom/prometheus:v2.45.0
---platform=linux/arm64 prom/alertmanager:v0.25.0
---platform=linux/arm64 quay.io/thanos/thanos:v0.35.0
---platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
---platform=linux/arm64 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
---platform=linux/arm64 docker.io/jettech/kube-webhook-certgen:v1.5.1
-
+--platform=linux/arm64 prom/prometheus:v2.30.3
+--platform=linux/arm64 quay.io/coreos/kube-state-metrics:v2.1.0
+--platform=linux/arm64 prom/alertmanager:v0.22.2
+--platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.50.0
