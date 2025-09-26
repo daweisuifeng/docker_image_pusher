@@ -1,2 +1,4 @@
---platform=linux/arm64 flannel/flannel:v0.22.2
---platform=linux/arm64 flannel/flannel-cni-plugin:v1.4.0-flannel1
+--platform=linux/arm64 prom/prometheus-linux-arm64:v2.46.0
+--platform=linux/arm64 prom/alertmanager-linux-arm64:v0.28.1
+--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
+--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
