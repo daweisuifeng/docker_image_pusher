@@ -1,2 +1,2 @@
 --platform=linux/arm64 flannel/flannel:v0.22.2
---platform=linux/arm64 flannel/flannel-cni-plugin:v1.3.1
+--platform=linux/arm64 flannel/flannel-cni-plugin:v1.4.0-flannel1
