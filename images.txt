@@ -1,4 +1,2 @@
---platform=linux/arm64 prom/prometheus:v2.30.3
---platform=linux/arm64 quay.io/coreos/kube-state-metrics:v2.1.0
---platform=linux/arm64 prom/alertmanager:v0.22.2
---platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.50.0
+--platform=linux/arm64 flannel/flannel:v0.22.2
+--platform=linux/arm64 flannel/flannel-cni-plugin:v1.3.1
