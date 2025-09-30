@@ -1,4 +1,2 @@
---platform=linux/arm64 prom/prometheus-linux-arm64:v2.46.0
---platform=linux/arm64 prom/alertmanager-linux-arm64:v0.28.1
---platform=linux/arm64 quay.io/prometheus/node-exporter:v1.6.1
---platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+--platform=linux/arm64 calico/cni:v3.29.6
+--platform=linux/arm64 calico/cni:v3.30.3
