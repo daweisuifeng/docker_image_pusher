@@ -1,2 +1,1 @@
---platform=linux/arm64 postgres:15
---platform=linux/amd64 postgres:15
+--platform=linux/arm64 k8s.gcr.io/metrics-server/metrics-server:v0.6.3
