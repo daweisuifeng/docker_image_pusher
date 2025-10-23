@@ -1,1 +1,1 @@
---platform=linux/arm64 k8s.gcr.io/metrics-server/metrics-server:v0.6.3
+--platform=linux/arm64 1001566/tomcat:arm64-jdk8
