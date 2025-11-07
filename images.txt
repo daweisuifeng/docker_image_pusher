@@ -1,1 +1,1 @@
---platform=linux/arm64 clibing/alpine-tomcat:arm64v8-openjdk-8.5.39
+--platform=linux/arm64 nacos/nacos-server:v3.0.2-slim
