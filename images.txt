@@ -1,1 +1,2 @@
---platform=linux/arm64 pkyit/nacos:2.3.2-dm8
+--platform=linux/arm64 bluenviron/mediamtx:1
+--platform=linux/amd64 bluenviron/mediamtx:1
