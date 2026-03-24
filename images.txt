@@ -1,2 +1,2 @@
---platform=linux/arm64 bluenviron/mediamtx:1
---platform=linux/amd64 bluenviron/mediamtx:1
+--platform=linux/arm64 bluenviron/mediamtx:1.17.0
+--platform=linux/amd64 bluenviron/mediamtx:1.17.0
