@@ -1,2 +1,1 @@
---platform=linux/arm64 bluenviron/mediamtx:latest
---platform=linux/amd64 bluenviron/mediamtx:latest
+--platform=linux/amd64 pgvector/pgvector:pg17
